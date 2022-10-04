@@ -1,12 +1,6 @@
-## Hi there 👋
+## Welcome to TrackIt RMS
+![github-banner](https://user-images.githubusercontent.com/72134232/193882660-b7e8cd8f-6342-48e5-b134-365fad277e99.png)
 
-<!--
+A warm welcome to TrackIt RMS. We are an all in one Resource management system specifically designed (but not limited) to the events industry. We aim to make the process of managing equipment, jobs and your clients alot easier. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We strive every day to provide solutions and features that you need enabling you to work more effeciently.
